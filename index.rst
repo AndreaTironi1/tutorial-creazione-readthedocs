@@ -40,7 +40,7 @@ Non è necessario essere sviluppatori per usare le procedure che spieghiamo in q
    - infine una in comune alle precedenti, abbastanza semplice, che consiste nella creazione del nome del progetto da pubblicare sulla piattaforma di Read the Docs, che si svolge solo dopo aver terminato la compilazione del progetto su Github = **il capitolo 2**.
 
 Ciro Spataro e Pablo Persico hanno seguito due strade diverse (capitolo 1 e capitolo 3) per raggiungere lo stesso obiettivo di pubblicazione di documenti su Read the Docs.
-In tal manera verrà coperta un'ampia rappresentanza (in fatto di competenze digitali) dei dipendenti e dirigenti pubblici. 
+In tal maniera verrà coperta un'ampia rappresentanza (in fatto di competenze digitali) dei dipendenti e dirigenti pubblici. 
 
 |
 
